@@ -168,7 +168,7 @@ None. Data is not shared with, sold to, or processed by any third party.
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashif%20Umar-blue?logo=linkedin)](https://www.linkedin.com/in/kashif-umar/)
-[![GitHub](https://img.shields.io/badge/GitHub-kashifumar-blue?logo=github)](https://github.com/kashifumar)
+[![GitHub](https://img.shields.io/badge/GitHub-kashifumar-181717?logo=github)](https://github.com/kashifumar)
 [![X](https://img.shields.io/badge/X-@kashif__umar-black?logo=x)](https://x.com/kashif_umar)
 
 ---
