@@ -4,15 +4,7 @@
 
 UpTrack is a browser extension for freelancers on Upwork, available for Firefox, Chrome, and Edge. It tracks which job listings you have already reviewed and automatically hides them from future search results — so every time you search, you only see fresh, unreviewed jobs.
 
-## Built by 
-
-**Kashif Umar**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashif%20Umar-blue?logo=linkedin)](https://www.linkedin.com/in/kashif-umar/)
-[![GitHub](https://img.shields.io/badge/GitHub-kashifumar-181717?logo=github)](https://github.com/kashifumar)
-[![X](https://img.shields.io/badge/X-@kashif__umar-black?logo=x)](https://x.com/kashif_umar)
-
-[![Support my work](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/kashifumar)
+Built by [Kashif Umar](https://www.linkedin.com/in/kashif-umar/) &nbsp;·&nbsp; [GitHub](https://github.com/kashifumar) &nbsp;·&nbsp; [X](https://x.com/kashif_umar)
 
 ---
 
@@ -23,7 +15,6 @@ UpTrack is a browser extension for freelancers on Upwork, available for Firefox,
 - [How It Works](#how-it-works)
 - [Search Preferences & URL Mapping](#search-preferences--url-mapping)
 - [Installation](#installation)
-- [Support This Project](#support-this-project)
 - [Known Limitations](#known-limitations)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
@@ -155,18 +146,6 @@ UpTrack is available on all major browser extension stores:
 | Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons) |
 
 > Store links will be updated as each version goes live. Firefox is available now.
-
----
-
-## Support This Project
-
-I build and maintain free browser extensions and addons independently. I'm committed to keeping UpTrack free — no paywalls, no premium lock-ins on core features.
-
-If UpTrack has saved you time or made bidding on Upwork easier, consider supporting its continued development and maintenance.
-
-[![Support my work](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/kashifumar)
-
-Every contribution is genuinely appreciated — it directly supports the time spent on updates, bug fixes, and new features.
 
 ---
 
