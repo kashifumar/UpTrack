@@ -267,9 +267,9 @@ Building this extension against Upwork's Vue.js frontend surfaced several non-ob
 
 ## Privacy & Legal
 
-UpTrack collects one anonymous ping when the extension is installed or opened. This contains: browser name and version, operating system, country (derived from your IP at request time — the IP itself is not stored), extension name,  extension version, and an anonymous timestamp.
+UpTrack collects one anonymous ping when the extension is installed or opened. This contains: browser name and version, operating system, country (derived from your IP at request time — the IP itself is not stored), extension name, extension version, and an anonymous timestamp.
 
-Everything you track — jobs, statuses, preferences, categories — is stored locally in your browser using `browser.storage.local`. None of it is ever transmitted anywhere.
+Everything you track — jobs, statuses, preferences, categories — is stored locally in your browser using `browser.storage.local`, extracted directly from the Upwork pages you visit (job title, URL) or entered by you (preferences). It is never transmitted to us or anyone else — but because it's still handled by the extension, it's disclosed below as its own category, separate from the analytics ping.
 
 Full details below.
 
@@ -279,6 +279,8 @@ Full details below.
 
 ### What we collect
 
+**Sent to us** (one anonymous ping on install/startup, used for aggregate analytics):
+
 - Browser name and version
 - Operating system
 - Country — derived from your IP address at request time. The IP address itself is not logged or stored.
@@ -286,16 +288,25 @@ Full details below.
 - Extension version
 - An anonymous session timestamp
 
+**Stored locally on your device only** (never sent to us or anyone else):
+
+- Job titles and URLs, extracted from the Upwork pages you visit, for jobs you mark Bid Done, Skip, or Check Later
+- The status and timestamps you assign to each tracked job
+- Your saved search preferences and active category selections
+
+You can view, export, or permanently delete all of this local data at any time from the extension's popup.
+
 ### What we do NOT collect
 
-- Job titles or any job content
-- Personal data of any kind
-- Your search history or saved preferences
+- Personal data of any kind (name, email, address, or similar)
 - Any information that could identify you as an individual
+- Anything beyond what's listed above — no keystrokes, clicks, browsing history outside of jobs you've explicitly marked, or content from any site other than the Upwork pages this extension is designed to work with
 
 ### How data is used
 
-Collected data is used solely for aggregate analytics — understanding which regions use the extension and which browsers need to be supported. It is never used to identify an individual user and never influences the product in a user-specific way.
+The data sent to us (the analytics ping) is used solely for aggregate analytics — understanding which regions use the extension and which browsers need to be supported. It is never used to identify an individual user and never influences the product in a user-specific way.
+
+The data stored locally on your device is used only to power the extension's own features — showing your tracked jobs, hiding ones you've already reviewed, and building your saved search URL. It never leaves your browser.
 
 ### Data retention
 
@@ -331,4 +342,4 @@ None. Data is not shared with, sold to, or processed by any third party.
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
