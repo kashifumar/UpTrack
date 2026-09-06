@@ -267,7 +267,7 @@ Building this extension against Upwork's Vue.js frontend surfaced several non-ob
 
 ## Privacy & Legal
 
-UpTrack collects one anonymous ping when the extension is installed or opened. This contains: browser name and version, operating system, country (derived from your IP at request time — the IP itself is not stored), extension version, and an anonymous timestamp.
+UpTrack collects one anonymous ping when the extension is installed or opened. This contains: browser name and version, operating system, country (derived from your IP at request time — the IP itself is not stored), extension name,  extension version, and an anonymous timestamp.
 
 Everything you track — jobs, statuses, preferences, categories — is stored locally in your browser using `browser.storage.local`. None of it is ever transmitted anywhere.
 
@@ -282,6 +282,7 @@ Full details below.
 - Browser name and version
 - Operating system
 - Country — derived from your IP address at request time. The IP address itself is not logged or stored.
+- Extension Name
 - Extension version
 - An anonymous session timestamp
 
