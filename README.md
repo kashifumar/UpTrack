@@ -150,7 +150,7 @@ UpTrack is available on all major browser extension stores:
 
 | Browser | Store |
 |---|---|
-| Firefox | [Firefox Add-ons](pending review) |
+| Firefox | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/uptrack/) |
 | Chrome | [Chrome Web Store](https://chromewebstore.google.com/detail/uptrack/ifaenmeblgbempjfppnkghdbmhnkdimg) |
 | Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/uptrack/llmahbifjjmgeoamlbmgofkabdalekdj) |
 
